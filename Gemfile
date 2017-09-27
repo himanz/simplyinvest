@@ -42,6 +42,7 @@ group :development, :test do
   gem 'selenium-webdriver'
   gem 'rspec'
   gem 'rspec_junit_formatter'
+  gem 'minitest'
 end
 
 group :development do
